@@ -1,5 +1,5 @@
 .main-container{
-    max-width: 1194px;
+    max-width: 83.125%;
 }
 .navbar {
     padding-left: 9%;
@@ -78,6 +78,7 @@
 }
 .logoes {
     padding-left: 12%;
+    margin-top:-8%;
 }
 /**
 ::-webkit-input-placeholder {
@@ -431,8 +432,7 @@
     box-shadow: 5px -1px 12px -5px grey;
 }
 .header-img img {
-    width: 595px;
-    height: 565px;
+    width:76%;
 }
 .navbar-light .navbar-toggler {
     border: hidden;
@@ -462,9 +462,6 @@
         margin-left: -0.64%;
         padding: 25px 33.5px;
         font-size: 14px;
-    }
-    .main-container{
-        max-width: 995px;
     }
     .work-text h4 {
         font-size: 18px;
@@ -555,9 +552,6 @@
  }
 
 @media (max-width: 991.98px) { 
-    .main-container{
-        max-width: 822.5px;
-    }
     .nav-menu {
         padding-right: 0;
     }
@@ -674,9 +668,6 @@
  }
 
 @media (max-width: 767.98px) { 
-    .main-container{
-        max-width: 636px;
-    }
     .titles h1 {
         font-size: 29px;
     }
@@ -746,9 +737,6 @@
  }
 
 @media (max-width: 575.98px) {
-    .main-container{
-        max-width: 478px;
-    }
     .header-img img {
         width: 238px;
         height: 226px;
